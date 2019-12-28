@@ -1,0 +1,23 @@
+.blue-button {
+	color: white;
+	background-color: #6699CC
+}
+.btn.btn-primary {
+	width: 100%
+}
+.linkedin-btn{
+	background: #0077B7;
+  	border-radius: 6px;
+  border: none;
+  padding: 10px 20px;
+  color: #ffffff;
+  font-size: 21px;
+  display: flex;
+  align-content: center;
+}
+.purple-button {
+background: #3B5998;
+}
+
+
+
